@@ -1,3 +1,4 @@
-chlep 3.5
-jajka 8.00
-masło 5.0
+chlep	3.5
+jajka	8.00
+masło	5.0
+ryż	3.2
